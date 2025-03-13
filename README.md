@@ -1,9 +1,7 @@
 # validador-e-gerador-de-cpf-de-dani-daylor
 Criei um algoritmo que além de validar um cpf, também gera 100 cpfs diferentes. Código gerado com o VScode através da linguagem Python 
 #gerar 100 CPFs
-
-
-import random #importar biblioteca random que gera valores aleatórios
+import random 
 
 for _ in range(100):
     cpf_zeroanove = ''
